@@ -17,7 +17,6 @@ public:
 
 	Camp(std::string campName, clock_t deathTimeStart, int respawnSecsLength, bool isActive) {
 		CampName = campName;
-		MonsterMap = monsterMap;
 		DeathTimeStart = deathTimeStart;
 		RespawnSecsLength = respawnSecsLength;
 		IsActive = isActive;

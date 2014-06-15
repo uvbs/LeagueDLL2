@@ -26,5 +26,14 @@
     <ClInclude Include="Hooks.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="Camp.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Jungle.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Monster.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

@@ -1,3 +1,6 @@
+#ifndef _MONSTER_
+#define _MONSTER_
+
 #include <string>
 
 using namespace std;
@@ -13,3 +16,4 @@ public:
 		IsActive = isActive;
 	}
 };
+#endif

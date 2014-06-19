@@ -35,5 +35,8 @@
     <ClInclude Include="Monster.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="..\..\..\..\..\Downloads\D3D template menu\d3d template fixed\d3d template fixed\Hacks.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
